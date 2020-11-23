@@ -11,6 +11,7 @@
 - [常用的工具函数](https://github.com/Andraw-lin/about-Axios/blob/main/docs/%E3%80%90axios%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E3%80%91%E5%B8%B8%E7%94%A8%E7%9A%84%E5%B7%A5%E5%85%B7%E5%87%BD%E6%95%B0.md)
 - [从入口分析axios封装](https://github.com/Andraw-lin/about-Axios/blob/main/docs/%E3%80%90axios%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E3%80%91%E4%BB%8E%E5%85%A5%E5%8F%A3%E5%88%86%E6%9E%90axios%E5%B0%81%E8%A3%85.md)
 - [axios请求的执行原理](https://github.com/Andraw-lin/about-Axios/blob/main/docs/%E3%80%90axios%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E3%80%91axios%E8%AF%B7%E6%B1%82%E7%9A%84%E6%89%A7%E8%A1%8C%E5%8E%9F%E7%90%86.md)
+- [拦截器的构造和实现](https://github.com/Andraw-lin/about-Axios/blob/main/docs/%E3%80%90axios%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E3%80%91%E6%8B%A6%E6%88%AA%E5%99%A8%E7%9A%84%E6%9E%84%E9%80%A0%E5%92%8C%E5%AE%9E%E7%8E%B0.md)
 - 未完待续...
 
 ## 建议
