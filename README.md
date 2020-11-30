@@ -14,6 +14,7 @@
 - [拦截器的构造和实现](https://github.com/Andraw-lin/about-Axios/blob/main/docs/%E3%80%90axios%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E3%80%91%E6%8B%A6%E6%88%AA%E5%99%A8%E7%9A%84%E6%9E%84%E9%80%A0%E5%92%8C%E5%AE%9E%E7%8E%B0.md)
 - [请求的实现](https://github.com/Andraw-lin/about-Axios/blob/main/docs/%E3%80%90axios%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E3%80%91%E8%AF%B7%E6%B1%82%E7%9A%84%E5%AE%9E%E7%8E%B0.md)
 - [取消请求](https://github.com/Andraw-lin/about-Axios/blob/main/docs/%E3%80%90axios%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E3%80%91%E5%8F%96%E6%B6%88%E8%AF%B7%E6%B1%82.md)
+- [请求并发](https://github.com/Andraw-lin/about-Axios/blob/main/docs/%E3%80%90axios%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E3%80%91%E8%AF%B7%E6%B1%82%E5%B9%B6%E5%8F%91.md)
 - 未完待续...
 
 ## 建议
