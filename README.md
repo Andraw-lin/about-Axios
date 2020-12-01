@@ -15,7 +15,7 @@
 - [请求的实现](https://github.com/Andraw-lin/about-Axios/blob/main/docs/%E3%80%90axios%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E3%80%91%E8%AF%B7%E6%B1%82%E7%9A%84%E5%AE%9E%E7%8E%B0.md)
 - [取消请求](https://github.com/Andraw-lin/about-Axios/blob/main/docs/%E3%80%90axios%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E3%80%91%E5%8F%96%E6%B6%88%E8%AF%B7%E6%B1%82.md)
 - [请求并发](https://github.com/Andraw-lin/about-Axios/blob/main/docs/%E3%80%90axios%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E3%80%91%E8%AF%B7%E6%B1%82%E5%B9%B6%E5%8F%91.md)
-- 未完待续...
+- [为何某些情况下无法使用all和cancel等方法](https://github.com/Andraw-lin/about-Axios/blob/main/docs/%E3%80%90axios%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E3%80%91%E4%B8%BA%E4%BD%95%E6%9F%90%E4%BA%9B%E6%83%85%E5%86%B5%E4%B8%8B%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8all%E5%92%8Ccancel%E7%AD%89%E6%96%B9%E6%B3%95.md)
 
 ## 建议
 
